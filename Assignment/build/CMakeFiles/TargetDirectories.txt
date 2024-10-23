@@ -1,0 +1,3 @@
+D:/DEV Game/Assignment/build/CMakeFiles/SdlCreateWindow.dir
+D:/DEV Game/Assignment/build/CMakeFiles/edit_cache.dir
+D:/DEV Game/Assignment/build/CMakeFiles/rebuild_cache.dir
